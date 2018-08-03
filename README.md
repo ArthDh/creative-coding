@@ -9,3 +9,8 @@
 
 * [Numberphile video]( https://www.youtube.com/watch?v=FGC5TdIiT9U&t=530s)
 * [The Coding Train video](https://www.youtube.com/watch?v=DhFZfzOvNTU&t=682s)
+
+# Project 2 - Fractal Trees
+
+
+![Fractal visualization]( /fractals/output.png)
